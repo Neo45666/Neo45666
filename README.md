@@ -5,7 +5,7 @@
 <h1>I am Nelson Offor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
 
 
-</br> Hi there, I am a Data Scientist here 
+</br> I am a Data Scientist here 
 
 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> -->
 
