@@ -4,7 +4,6 @@
 
 <h1>I am Nelson Offor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
 
-<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=Neo45666" alt="Neo45666" /> </h3>
 
 </br> Hi there, I am a Data Scientist here 
 
