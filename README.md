@@ -15,9 +15,7 @@
 
 <!-- ![vins-aws-ecr](https://user-images.githubusercontent.com/64049432/203648913-38af64b1-2761-4a04-919d-aeb567935a47.gif =250x250) -->
 
-<hr>
-
-I'm a Data Scientist. I am passionate about Data Science, Cloud Engineering, Infrastructure Automation and Machine Learning.
+<hr> I am passionate about Data Science, Cloud Engineering, Infrastructure Automation and Machine Learning.
 
 - 🌱 I’m currently learning: DevOps 
 - 👯 I’m looking to collaborate on: DevOps, Cloud and Data Engineering.
