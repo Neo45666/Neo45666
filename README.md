@@ -5,8 +5,7 @@
 <h1>I am Nelson Offor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
 
 
-</br> I am a Data Scientist developing skills in DevOps Cloud Engineering. I am aiming to develop into a DataOps Engineer and my main interest is on improving software development and deployment processes. I am aim to continuously learn in the ever-evolving and collaborative technological landscape.
-
+</br> I am a Data Scientist actively expanding my expertise in DevOps Cloud Engineering. My goal is to transition into a DataOps Engineer, with a primary focus on enhancing software development and deployment processes. I am committed to continuous learning in the dynamic and collaborative field of technology.
 
 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> -->
 
