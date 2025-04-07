@@ -5,7 +5,7 @@
 <h1>I am Nelson Offor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
 
 
-</br> I am a Data Scientist focused on integrating my expertise with Cloud Engineering. In addition to enhancing my knowledge in software development and deployment processes, I am actively developing skills in MLOps, cloud-native data engineering, DevOps for data science, serverless computing, and cloud security. I am committed to continuous learning and growth in the dynamic and collaborative field of technology.
+</br> I am a Data Scientist focused on integrating my expertise with Cloud Engineering. In addition to enhancing my knowledge in software development and deployment processes, I am actively developing skills in Machine Learning, AWS/GCP/AZURE DevOps, serverless computing, cloud security and AI Engineering. I am committed to continuous learning and growth in the dynamic and collaborative field of technology.
 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> -->
 
 ![68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966](https://github.com/Micah-Shallom/Micah-Shallom/assets/64049432/80bfae28-685f-414e-b5f0-3b4ef8084bb1)
