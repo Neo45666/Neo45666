@@ -16,7 +16,7 @@
 <hr> I am passionate about Data Science, Cloud Engineering, Infrastructure Automation and Machine Learning.
 
 - 🌱 I’m currently learning: DevOps Engineering 
-- 👯 I’m looking to collaborate on: DevOps, Cloud and Data Engineering.
+- 👯 I’m looking to collaborate on: Cloud and Data Engineering.
 
 ## 🔭 I'm currently working on
 
