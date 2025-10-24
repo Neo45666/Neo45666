@@ -5,7 +5,7 @@
 <h1>I am Nelson Offor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
 
 
-</br> Versatile data professional combining the precision of a Data Engineer with the insight of a Data Analyst. Expert in building robust ETL pipelines, modeling datasets, and delivering intuitive reports that drive business action. Proficient in AWS, Azure Data Tools, Databricks, Power BI, Tableau, SQL, R and Python, with a passion for data quality, governance, automation, and cross-functional collaboration to solve complex business problems.
+</br> I am an Analyics Engineer and I design and build scalable data platforms, AI-enabled analytics solutions, and governance frameworks that transform raw data into trusted insights. My focus is on combining engineering precision with data governance discipline to deliver enterprise-grade solutions. I thrive where data science, engineering, and governance converge, ensuring enterprises have data that is not just big, but trusted, actionable, and future-ready
 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> -->
 
 ![68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966](https://github.com/Micah-Shallom/Micah-Shallom/assets/64049432/80bfae28-685f-414e-b5f0-3b4ef8084bb1)
@@ -15,8 +15,8 @@
 
 <hr> I am passionate about Data Science, Cloud Engineering, Infrastructure Automation and Machine Learning.
 
-- 🌱 I’m currently learning: DevOps Engineering 
-- 👯 I’m looking to collaborate on: Cloud and Data Engineering.
+- 🌱 I’m currently learning: Agentic AI Governance 
+- 👯 I’m looking to collaborate on: Cloud, Data Engineering, Data, AI Governance
 
 ## 🔭 I'm currently working on
 
